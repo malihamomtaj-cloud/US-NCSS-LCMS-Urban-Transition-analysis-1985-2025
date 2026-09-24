@@ -36,3 +36,15 @@ Of these, 764 records were sampled before 1985.
 Because the LCMS time series begins in 1985, the exact year of
 development cannot be determined for these locations. These records are
 therefore kept separate from the annual transition-event dataset.
+
+## Pre-1985 sampled subset
+
+`US_NCSS_1985_developed_sampled_before_1985.csv`
+
+This file is a subset of the 1985 baseline-developed dataset and contains
+the 764 NCSS records that were sampled before 1985.
+
+These locations were already classified as Developed when the LCMS time
+series begins in 1985. Therefore, their exact year of development cannot
+be determined from LCMS and they are treated as baseline-developed records
+rather than annual transition events.
